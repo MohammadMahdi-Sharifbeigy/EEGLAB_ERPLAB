@@ -1,0 +1,15 @@
+Bin 1
+Prime word, related to subsequent target word
+.{111;112}
+
+Bin 2
+Prime word, unrelated to subsequent target word
+.{121;122}
+
+Bin 3
+Target word, related to previous prime, followed by correct response
+.{211;212}{t<200-1500>201}
+
+Bin 4
+Target word, unrelated to previous prime, followed by correct response
+.{221;222}{t<200-1500>201}
